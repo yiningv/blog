@@ -9,6 +9,8 @@ tags:
 [//]: <> (This is also a comment.)
 [//]: # (This may be the most platform independent commen
 [^_^]:sadas
+;sasa
+:sasas
  
 ---
 我是正文
